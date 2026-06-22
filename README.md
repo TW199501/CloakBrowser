@@ -199,7 +199,7 @@ Pro plans → **[cloakbrowser.dev](https://cloakbrowser.dev)**
 
 ## Test Results
 
-All tests verified against live detection services. Last tested: Apr 2026 (Chromium 146).
+All tests verified against live detection services. Last tested: Jun 2026 (Chromium 148).
 
 | Detection Service | Stock Playwright | CloakBrowser | Notes |
 |---|---|---|---|
